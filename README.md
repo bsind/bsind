@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bsind
-- 👀 I’m interested in Data Analytics for Beginners.
-- 🌱 I’m currently learning Python and some basic statistics.
-- 💞️ I’m looking to collaborate on projects related to NP Finance/Accounting/Tax (esp Environmental)
+- 👀 I’m interested in Aritificial Intelligence and Robotics.
+- 🌱 I’m currently learning C++.
+- 💞️ I’m looking to connect with other AI learners and roboticists.
 - 📫 How to reach me ...
 
 <!---
